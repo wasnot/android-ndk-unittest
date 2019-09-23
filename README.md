@@ -1,5 +1,7 @@
 # Android NDK unittest sample
-このリポジトリは、技術書典7にて頒布した「実践マニアックテスト Web/iOS/Android編」の第3部Android NDKのテストのサンプルコードです。
+このリポジトリは、技術書典7にて頒布した「実践マニアックテスト Web/iOS/Android編」の「第3部 Android NDKのテスト」のサンプルコードです。
+
+PDF版は[こちら](https://karafurubodo.booth.pm/items/1572113)で販売中です。
 
 ## 第1章 Android NDKをテストする
 `chapter1`ディレクトリには、本書第3部の第1章で触れている実際のプロジェクトの内容が収録されています。  
